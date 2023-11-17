@@ -92,6 +92,7 @@ a {
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.50) 0%, rgba(0, 0, 0, 0.50) 100%), url(../images/city.jpg), lightgray 50% / cover no-repeat;
     width: 1360px;
     height: 768px;
+    background-repeat: no-repeat;
 }
 /* ============================= section-three-img-container ============================= */
 .section-three-list {
